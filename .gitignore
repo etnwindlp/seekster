@@ -1,0 +1,13 @@
+.DS_Store
+/node_modules
+/csv_or_excel
+/pdf
+
+
+
+# Editor directories and files
+*.xls*
+*.csv
+*.pdf
+*.png
+*.jpg
